@@ -1,22 +1,20 @@
+
 # Bright_Motors Sales Analysis
-This sales analysis looks at the sales made over the years with a specification on brands that are bought the most and considering the less bought car brands and give insights to assist with decision making.
-This analysis is aimed at analysing the brands that are bought the most at different states.
-This case study aims to identify high-performing and low-performing car brands through a monthly and yearly analysis, For car brands that do not perform well there are recommendations proivided to help improve  sales.
+
+This sales analysis examines the company’s performance over the years, with a focus on identifying the most frequently purchased car brands as well as those with lower sales. The goal is to provide insights that support strategic decision-making. This analysis also highlights brand performance across different states, offering a comparative view of high-performing and low-performing brands on both a monthly and yearly basis. Recommendations are provided for underperforming brands to help improve overall sales.
 
 # Process
-In this project, the provided raw data was analysed usind code developed to generate  the necessary insights.
-the case study followed a well thoughtout process: CODE EXPORT VISUALIZE.
-this workflow helps the company understand its business performance and provide insights needed for the rapid growth of the company.
 
-#Findings 
+In this project, the raw data was analyzed using code developed to generate meaningful insights. The case study followed a structured workflow: CODE → EXPORT → VISUALIZE. This approach helps the company better understand its business performance and supports the development of insights needed to drive rapid growth.
 
-The analysis showed that some car brands consistently perform below the expected result compared to others.
- To address this shortfall promotional strategies - such as targeted special offers- were suggested to help boost sales and  engagement.
+# Findings
 
- # Tools used for analysis 
+The analysis revealed that certain car brands consistently underperform compared to others. To address this gap, promotional strategies—such as targeted special offers—were recommended to help boost sales and increase customer engagement.
 
-Snowflake - Data storage, querying,, and analysis 
-Microsoft excel - Data cleaning and exploration
-Canva - Visualization and presentation of key insights 
- 
+# Tools Used for Analysis
 
+Snowflake – Data storage, querying, and analysis
+
+Microsoft Excel – Data cleaning and exploration
+
+Canva – Visualization and presentation of key insights
