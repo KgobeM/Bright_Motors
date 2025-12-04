@@ -17,4 +17,4 @@ Snowflake – Data storage, querying, and analysis
 
 Microsoft Excel – Data cleaning and exploration
 
-Canva – Visualization and presentation of key insights
+PowerBI – Visualization and presentation of key insights
